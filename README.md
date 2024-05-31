@@ -3,7 +3,7 @@
 📱 Stunning, responsive, animated visually appealing UI design enhances user interaction and navigation.
 🎨 Designed with a keen eye for aesthetics, ensuring a beautiful interface that captures the essence of the travel experience.
 
-## Features
+# Features
 ## Explore Destinations: 
 Discover popular and hidden travel spots around the world.
 ## Itinerary Planner: 
