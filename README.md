@@ -1,16 +1,19 @@
-# travel_app
+# Travel_App ✈️ 🏨 🌏 
+"A comprehensive travel app for exploring destinations, planning trips, and booking travel essentials seamlessly." 
+📱 Stunning, responsive, animated visually appealing UI design enhances user interaction and navigation.
+🎨 Designed with a keen eye for aesthetics, ensuring a beautiful interface that captures the essence of the travel experience.
 
-A new Flutter project.
+## Features
+## Explore Destinations: 
+Discover popular and hidden travel spots around the world.
+## Itinerary Planner: 
+Create and manage your travel plans with ease.
 
-## Getting Started
+# Demo of the Project
+![GitHub Upload Images (1)](https://github.com/osamakamal20/Travel_App/assets/70693692/1c6531c2-fc55-462b-9706-e89ecf84758c)
 
-This project is a starting point for a Flutter application.
+# Video of the Project
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/osamakamal20/Travel_App/assets/70693692/8c63483b-2b48-4ef3-957b-cc7b7e1883ae
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
